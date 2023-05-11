@@ -8,7 +8,7 @@ La landing page consta de las siguientes secciones:
 
 - **Header**: Esta sección contiene el logo de la marca he informacion relevante del producto.
 
-- **Section Acerca de**: Esta sección presenta información sobre la marca TechPRO.
+- **Section Acerca de**: Esta sección presenta información sobre la empresa de Arquitectura.
 
 - **Section Modelo**: Esta sección describe los principales modelos de arquitectura de la empresa y muestra una imagen ilustrativa.
 
